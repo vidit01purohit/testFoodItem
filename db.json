@@ -1,0 +1,74 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Bacon, Spinach & Swiss Omelet",
+      "category": "Breakfast",
+      "price": 8.99,
+      "veg": false
+    },
+    {
+      "id": 2,
+      "name": "Denver Omelet",
+      "category": "Breakfast",
+      "price": 9.49,
+      "veg": false
+    },
+    {
+      "id": 3,
+      "name": "French Toast",
+      "category": "Breakfast",
+      "price": 7.99,
+      "veg": true
+    },
+    {
+      "id": 4,
+      "name": "Clam Chowder with Smoked Salmon",
+      "category": "Soup",
+      "price": 10.99,
+      "veg": false
+    },
+    {
+      "id": 5,
+      "name": "Pear and Gorgonzola Salad",
+      "category": "Salads",
+      "price": 11.49,
+      "veg": true
+    },
+    {
+      "id": 6,
+      "name": "Whiskey BBQ Sauce Hamburger",
+      "category": "Sandwiches",
+      "price": 12.99,
+      "veg": false
+    },
+    {
+      "id": 7,
+      "name": "Chicken Parmesan",
+      "category": "Chicken",
+      "price": 14.99,
+      "veg": false
+    },
+    {
+      "id": 8,
+      "name": "Seafood Fettuccine",
+      "category": "Pasta",
+      "price": 15.49,
+      "veg": false
+    },
+    {
+      "id": 9,
+      "name": "Chocolate Brownie",
+      "category": "Desserts",
+      "price": 6.49,
+      "veg": true
+    },
+    {
+      "id": 10,
+      "name": "Virgin Mai Tai",
+      "category": "Beverages",
+      "price": 4.99,
+      "veg": true
+    }
+  ]
+}
